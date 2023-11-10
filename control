@@ -1,0 +1,10 @@
+Package: com.pkgfiles.flowfixxinaa15
+Name: FlowFixXina
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fixes the Media Player behind the Flow Tweak. For Xina Only.
+Maintainer: pkgFiles
+Author: pkgFiles
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 15.0)
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/icons/Icon-FlowFixXina.png
